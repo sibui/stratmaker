@@ -1,1 +1,1 @@
-web: gunicorn --pythonpath stratmaker app.wsgi
+web: gunicorn app.wsgi
