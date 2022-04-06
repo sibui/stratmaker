@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-#)d$620oo$i@46g2g5xs$r#jdc#qw3y3s*mxns23$awko^&j$j
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['stratmaker.herokuapp.com']
 
 
 # Application definition
